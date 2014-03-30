@@ -18,8 +18,8 @@ $(document).ready(function() {
 					} 
 					else {
 					$('.fizz-space').append('<p>' + i + '</p>');
-				   } 
-			    }	 
+				    } 			    
+				}
 		}); 
    
 });
